@@ -1,0 +1,1 @@
+Olá. Este projeto foi criado no curso Full Stack da Digital House. Ele consiste em um sistema financeiro Web.
